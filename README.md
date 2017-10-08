@@ -26,4 +26,4 @@ Para el alojamiento web podemos usar cualquier servicio web, como apache. Necesi
 
 # Uso del servicio web
 
-Para un mayor conocimiento del servicio web se puede consultar el Manual de usuario adjunto.
+Para un obtener un mayor conocimiento sobre como utilizar el servicio web se puede consultar el manual de usuario adjunto.
